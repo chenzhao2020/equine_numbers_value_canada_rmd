@@ -1,5 +1,6 @@
 ---
 title: "Historical horse population in Canada"
+bibliography: horse_references.bib
 output: github_document
 ---
 
@@ -83,3 +84,5 @@ province_plot <- horse_pop %>%
   theme(axis.text.x = element_text(angle = 90, hjust = 1))
 province_plot
 ```
+
+## References
