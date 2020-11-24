@@ -79,3 +79,5 @@ Figure 2. Number of horses for province of focus
 </p>
 
 </div>
+
+## References
