@@ -1,6 +1,12 @@
 Historical horse population in Canada
 ================
 
+  - [Aim](#aim)
+  - [Data](#data)
+  - [Methods](#methods)
+  - [Results](#results)
+  - [References](#references)
+
 ## Aim
 
 This project explores the historical population of horses in Canada
@@ -20,9 +26,10 @@ two sources were used:
 
 ## Methods
 
-The R programming language and the following R packages were used to
-perform the analysis: knitr and tidyverse. The code used to perform the
-analysis and create this report can be found here:
+The R programming language (R Core Team 2019) and the following R
+packages were used to perform the analysis: knitr (Xie 2014) and
+tidyverse (Wickham 2017). The code used to perform the analysis and
+create this report can be found here:
 <https://github.com/ttimbers/equine_numbers_value_canada_rmd>.
 
 ## Results
@@ -81,3 +88,31 @@ Figure 2. Number of horses for province of focus
 </div>
 
 ## References
+
+<div id="refs" class="references">
+
+<div id="ref-R">
+
+R Core Team. 2019. *R: A Language and Environment for Statistical
+Computing*. Vienna, Austria: R Foundation for Statistical Computing.
+<https://www.R-project.org/>.
+
+</div>
+
+<div id="ref-tidyverse">
+
+Wickham, Hadley. 2017. *Tidyverse: Easily Install and Load the
+’Tidyverse’*. <https://CRAN.R-project.org/package=tidyverse>.
+
+</div>
+
+<div id="ref-knitr">
+
+Xie, Yihui. 2014. “Knitr: A Comprehensive Tool for Reproducible Research
+in R.” In *Implementing Reproducible Computational Research*, edited by
+Victoria Stodden, Friedrich Leisch, and Roger D. Peng. Chapman;
+Hall/CRC. <http://www.crcpress.com/product/isbn/9781466561595>.
+
+</div>
+
+</div>
